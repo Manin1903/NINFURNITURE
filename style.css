@@ -198,7 +198,7 @@
 /* Home section */
 #home{
     min-height:90vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),  url(../Furniture/image/back.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),  url(/image/back.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
